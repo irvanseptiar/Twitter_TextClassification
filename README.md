@@ -4,4 +4,4 @@ This repository is a collection of twitter datasets that are categorized into 5 
 #### 2. Porn
 #### 3. Advertising
 #### 4. Economy
-#### 5. Politics
+#### 5. Politics Actors
